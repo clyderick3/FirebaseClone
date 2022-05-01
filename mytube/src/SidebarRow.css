@@ -21,6 +21,10 @@
     cursor: pointer
 }
 
-.sidebarRow:hover > .sidebarRow_icon {
+.sidebarRow:hover > .sidebarRow_icon { /*When you hover go to icon*/
     color: red;
+}
+
+.sidebarRow:hover > .sidebarRow_title {
+    font-weight: bold;
 }
