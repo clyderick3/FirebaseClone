@@ -12,6 +12,14 @@ function Sidebar() {
             <SidebarRow selected Icon = {HomeSharpIcon} title = "Home"/>
             <SidebarRow Icon = {WhatshotSharpIcon} title = "Trending"/>
             <SidebarRow Icon = {SubscriptionsSharpIcon} title = "Subscription"/>
+            <hr/>
+            <SidebarRow Icon = {WhatshotSharpIcon} title = "Trending"/>
+            <SidebarRow Icon = {WhatshotSharpIcon} title = "Trending"/>
+            <SidebarRow Icon = {WhatshotSharpIcon} title = "Trending"/>
+            <SidebarRow Icon = {WhatshotSharpIcon} title = "Trending"/>
+            <SidebarRow Icon = {WhatshotSharpIcon} title = "Trending"/>
+            <SidebarRow Icon = {WhatshotSharpIcon} title = "Trending"/>
+
 
 
         </div>
