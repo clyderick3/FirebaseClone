@@ -21,7 +21,7 @@ function Header() {
             <AppsSharpIcon/>
             <Avatar
                 alt = "Clizzy"
-                src = "content/avi.jpg" />
+                img src = "https://media-exp1.licdn.com/dms/image/C4E03AQG16NeR7pYFiw/profile-displayphoto-shrink_800_800/0/1651343221678?e=1657152000&v=beta&t=0Bkl_FzmtdndDUvI9ESOlzw3xtf_1XtkE-zMEkYGRLE" />
 
         </div>
     );
