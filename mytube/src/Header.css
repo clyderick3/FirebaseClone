@@ -1,0 +1,8 @@
+.header {
+    display: flex; //has gone into a row.
+    align-items: center;
+}
+
+.header__logo {
+    height: 25px;
+}

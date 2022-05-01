@@ -7,11 +7,10 @@ function App() {
       //class naming convention
     <div className="app">
       {/*<h1>Hello there friends, let's build our YouTube Clone.</h1>*/}
-
         <Header/>
 
-        {/*Header */}
-        {/*Sidebar*/}
+        {/*Header -> <Header /> */}
+        {/*Sidebar -> <Sidebar /> */}
         {/*RecommendedVideos*/}
     </div>
   );
