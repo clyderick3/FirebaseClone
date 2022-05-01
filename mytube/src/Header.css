@@ -15,7 +15,7 @@
     display: flex;
     align-items: center;
     width: 40%;
-    border: 1px solid black;
+    border: 1px solid black; /*Border around search bar*/
 }
 
 .header_inputButton {

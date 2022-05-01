@@ -24,7 +24,7 @@ function Header() {
             />
 
             <div className="header_input">
-                <input type = "text"/>
+                <input placeholder = "Search" type = "text"/>
                 <SearchSharpIcon className = "header_inputButton"/>
             </div>
 
