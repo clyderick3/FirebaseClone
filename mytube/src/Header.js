@@ -10,8 +10,11 @@ import {Avatar} from "@mui/material";
 function Header() {
     return (
         <div className = "header">
-            {/*<h1>My FAKE YouTube header.</h1>*/}
-            <MenuSharpIcon />
+            <div className="header_left">
+                <MenuSharpIcon />
+
+            </div>
+
             <img
                 className = "headerLogo"
                 src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg"
