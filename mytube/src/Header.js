@@ -20,8 +20,13 @@ function Header() {
                 src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg"
                 alt=""
             />
-            <input type = "text"/>
-            <SearchSharpIcon/>
+
+            <div className="header_input">
+                <input type = "text"/>
+                <SearchSharpIcon/>
+            </div>
+
+
             <VideoCallSharpIcon/>
             <AppsSharpIcon/>
             <Avatar
