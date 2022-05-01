@@ -28,7 +28,7 @@ function Header() {
 
             <div className="header_icons">
                 <VideoCallSharpIcon className = "header_icon"/>
-                <AppsSharpIcon className = "header _icon"/>
+                <AppsSharpIcon className = "header_icon"/>
                 <CircleNotificationsSharpIcon className = "header_icon"/>
                 <Avatar
                     alt = "Clizzy"

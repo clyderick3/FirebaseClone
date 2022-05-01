@@ -19,23 +19,26 @@
     display: flex;
     align-items: center;
     width: 40%;
-    border: 1px solid black; /*Border around search bar*/
+    border: 1px solid lightgray; /*Border around search bar*/
 }
 
 .header_icon {
-    margin-right: 8px;
+    margin-right: 5px;
+    /*align-items: center;*/
+    /*justify-content: space-evenly;*/
 }
 
-.header_inputButton {
-    width: 50px !important; /*Material UI needs override.*/
+.header_inputButton { /*Around the magnifying glass.*/
+    width: 50px ; /*Material UI needs override add !important.*/
     background-color: #fafafa;
     border-left: 1px solid lightgray;
-    color: gray;
+    color: black;
 }
 
 .header_icons {
     display: flex;
     align-items: center;
+    /*background-color: blue;*/
 }
 
 .header_input > input { /*allows parent to take child + fill space*/
