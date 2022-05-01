@@ -7,7 +7,8 @@
 
 .headerLogo {
     height: 25px;
-    /*object-fit: contain --> if items are distorted or stretched*/
+    object-fit: contain; /*if items are distorted or stretched*/
+    margin-left: 20px;
 }
 
 .header_input {
