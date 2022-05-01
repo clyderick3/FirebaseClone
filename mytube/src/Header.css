@@ -14,9 +14,23 @@
 .header_input {
     display: flex;
     align-items: center;
+    width: 40%;
+    border: 1px solid black;
+}
+
+.header_inputButton {
+    width: 50px !important; /*Material UI needs override.*/
+    background-color: #fafafa;
+    border-left: 1px solid lightgray;
+    color: gray;
 }
 
 .header_icons {
     display: flex;
     align-items: center;
+}
+
+.header_input > input { /*allows parent to take child + fill space*/
+    flex: 1;
+    border: none;
 }

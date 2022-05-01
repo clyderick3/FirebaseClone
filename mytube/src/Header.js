@@ -25,8 +25,9 @@ function Header() {
 
             <div className="header_input">
                 <input type = "text"/>
-                <SearchSharpIcon/>
+                <SearchSharpIcon className = "header_inputButton"/>
             </div>
+
             <div className="header_icons">
                 <VideoCallSharpIcon/>
                 <AppsSharpIcon/>
