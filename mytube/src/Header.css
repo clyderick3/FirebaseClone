@@ -1,9 +1,21 @@
 .header {
     display: flex; /*Puts everything in center*/
     align-items: center; /*Makes most items same height.*/
+    justify-content: space-between;
+    padding: 20px;
 }
 
 .headerLogo {
     height: 25px;
     /*object-fit: contain --> if items are distorted or stretched*/
+}
+
+.header_input {
+    display: flex;
+    align-items: center;
+}
+
+.header_icons {
+    display: flex;
+    align-items: center;
 }
