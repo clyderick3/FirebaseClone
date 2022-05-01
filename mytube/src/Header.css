@@ -1,8 +1,9 @@
 .header {
-    display: flex;
-    align-items: center;
+    display: flex; /*Puts everything in center*/
+    align-items: center; /*Makes most items same height.*/
 }
 
 .headerLogo {
     height: 25px;
+    /*object-fit: contain --> if items are distorted or stretched*/
 }
