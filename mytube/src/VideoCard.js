@@ -1,10 +1,11 @@
 import React from 'react';
+import "./VideoCard.css";
 import {Avatar} from "@mui/material";
 
 function VideoCard ({ image, title, channel, views, timestamp, channelImage}) {
     return (
-        <div>
-            <img src = {image} alt = ""/>
+        <div className = "videoCard">
+            <img className = "videoCard_thumbnail" src = {image} alt = ""/>
             <div className = "videoCard_info">
                 <Avatar
                     className = "videoCard_avatar"
