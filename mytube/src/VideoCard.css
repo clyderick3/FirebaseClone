@@ -17,3 +17,8 @@
 .videoCard_text {
     margin-left: 15px;
 }
+
+.videoCard_text > h4 {
+    font-size: 15px;
+    margin-bottom: 5px;
+}
