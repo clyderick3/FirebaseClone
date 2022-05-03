@@ -6,16 +6,15 @@ import RecommendedVideos from "./RecommendedVideos";
 import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      {/*<h1>Hello there friends, let's build our YouTube Clone :) .</h1>*/}
-        <Header />
-        <div className="app_page">
-            <Sidebar />
-            <RecommendedVideos />
+    return (
+        <div className="App">
+            <Header />
+            <div className = "app_page">
+                <Sidebar />
+                <RecommendedVideos />
+            </div>
         </div>
-    </div>
-  );
+    );
 }
 
 export default App;
