@@ -139,7 +139,7 @@ function RecommendedVideos() {
                     timestamp = "5 days ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
                     channel = "Broderick Business"
-                    image = "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/stories/communities/can-corporations-callout.jpg"
+                    image = "http://static.businessworld.in/article/article_extra_large_image/1496145805_xLoqoa_1475135333_5kEZ04_rajat.jpg"
                 />
 
 
