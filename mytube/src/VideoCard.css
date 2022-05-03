@@ -22,3 +22,8 @@
     font-size: 15px;
     margin-bottom: 5px;
 }
+
+.videoCard_text > p {
+    font-size: 14px;
+    color: gray;
+}
