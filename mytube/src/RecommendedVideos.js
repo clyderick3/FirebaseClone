@@ -8,7 +8,7 @@ function RecommendedVideos() {
             <h2>Recommended</h2>
             <div className="recommendedVideos_videos">
                 <VideoCard
-                title = "JPMC does it again !!!"
+                title = "Love Learning!"
                 views = "3.1M views"
                 timestamp = "1 day ago"
                 channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
@@ -17,7 +17,7 @@ function RecommendedVideos() {
                 />
 
                 <VideoCard
-                    title = "Putting Our Skills to Work in Detroit"
+                    title = "Family Matters"
                     views = "50K views"
                     timestamp = "5 days ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
