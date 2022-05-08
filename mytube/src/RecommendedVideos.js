@@ -109,7 +109,7 @@ function RecommendedVideos() {
                 <VideoCard
                     title = "Powered by Small Business"
                     views = "2.2M views"
-                    timestamp = "2 day ago"
+                    timestamp = "4 day ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
                     channel = "Broderick Business"
                     image = "https://searchengineland.com/wp-content/seloads/2018/09/small-biz-smb-ss-1920.jpg"
