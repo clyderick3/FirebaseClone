@@ -26,7 +26,7 @@ function RecommendedVideos() {
                 />
 
                 <VideoCard
-                    title = "5 Sustainability Trends to Watch in 2022"
+                    title = "Building a Better Future"
                     views = "1M views"
                     timestamp = "1 day ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
@@ -35,7 +35,7 @@ function RecommendedVideos() {
                 />
 
                 <VideoCard
-                    title = "Tabi Haly: Rocking!"
+                    title = "Boy Meets World!"
                     views = "2.1M views"
                     timestamp = "1 day ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
