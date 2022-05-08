@@ -13,7 +13,7 @@ function RecommendedVideos() {
                 timestamp = "1 day ago"
                 channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
                 channel = "Broderick Business"
-                image = "https://careers.jpmorgan.com/content/dam/careers/social/JPMCLogo_1200x627.jpg"
+                image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTYFSl9KX9QWkWKouFBXEFNIPIsqqyKhXMDw&usqp=CAU"
                 />
 
                 <VideoCard
