@@ -22,7 +22,7 @@ function RecommendedVideos() {
                     timestamp = "5 days ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
                     channel = "Broderick Business"
-                    image = "https://lawrence.house.gov/sites/lawrence.house.gov/files/featured_image/office_location/downtown%20detroit.jpg"
+                    image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkg6N9FV9g6HI40ux38Wj4oavdNto-5Esh_Q&usqp=CAUgit"
                 />
 
                 <VideoCard
