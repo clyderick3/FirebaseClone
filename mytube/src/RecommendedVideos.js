@@ -117,7 +117,7 @@ function RecommendedVideos() {
 
                 <VideoCard
                     title = "Helping Cities Drive Economic Growth"
-                    views = "1M views"
+                    views = "7.7K views"
                     timestamp = "4 days ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
                     channel = "Broderick Business"
