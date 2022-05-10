@@ -13,6 +13,7 @@
     height: 25px;
     object-fit: contain; /*if items are distorted or stretched*/
     margin-left: 20px;
+    margin-right: 10px;
 }
 
 .header_input {

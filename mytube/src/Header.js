@@ -19,6 +19,7 @@ function Header() {
                 src = {require("./WeTube.png")}
                 alt=""
             />
+            Sponsored by NYCETube, DiaryFibre, and FLINT.
             </div>
 
             <div className="header_input">
