@@ -20,7 +20,7 @@ function Sidebar() {
             <SidebarRow Icon = {WhatshotSharpIcon} title = "Trending"/>
             <SidebarRow Icon = {SubscriptionsSharpIcon} title = "Subscription"/>
             <hr/>
-            <SidebarRow Icon = {AutoStoriesSharpIcon} title = "Shorts"/>
+            <SidebarRow Icon = {AutoStoriesSharpIcon} title = "Short"/>
             <SidebarRow Icon = {OndemandVideoSharpIcon} title = "Originals"/>
             <SidebarRow Icon = {LibraryMusicSharpIcon} title = "Music"/>
             <SidebarRow Icon = {HistoryIcon} title = "History"/>

@@ -34,7 +34,7 @@
 }
 
 .sidebarRow.selected > .sidebarRow_icon {
-    color: red;
+    color: blue;
 }
 
 .sidebarRow.selected > .sidebarRow_title {
