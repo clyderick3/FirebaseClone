@@ -16,7 +16,7 @@ function Header() {
                 <MenuSharpIcon />
             <img
                 className = "headerLogo"
-                src=""
+                src="mytube/Content/WeTube.png"
                 alt=""
             />
             </div>
