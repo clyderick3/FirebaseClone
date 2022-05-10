@@ -7,7 +7,7 @@ import "./App.css";
 
 function App() {
     return (
-        <div className="App"> //test update.
+        <div className="App">
             <Header />
             <div className = "app_page">
                 <Sidebar />

@@ -136,7 +136,7 @@ function RecommendedVideos() {
                 <VideoCard
                     title = "How to Keep Your Business Afloat After a Disaster"
                     views = "1.5M views"
-                    timestamp = "6 days ago"
+                    timestamp = "6 month ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
                     channel = "Broderick Business"
                     image = "https://www.mecknc.gov/news/PublishingImages/We%27re%20open%20x422.jpg"
