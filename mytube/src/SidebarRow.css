@@ -22,7 +22,7 @@
 }
 
 .sidebarRow:hover > .sidebarRow_icon { /*When you hover go to icon*/
-    color: red;
+    color: lawngreen;
 }
 
 .sidebarRow:hover > .sidebarRow_title {
@@ -34,7 +34,7 @@
 }
 
 .sidebarRow.selected > .sidebarRow_icon {
-    color: blue;
+    color: royalblue;
 }
 
 .sidebarRow.selected > .sidebarRow_title {
