@@ -15,17 +15,18 @@ function App() {
                         <h1>Search page</h1>
                     </Route>
                     <Route path = "/">
-                        <h1>Home page</h1>
+                        {/*<h1>Home page</h1>*/}
+                        {/*<Header />*/}
+                        <div className = "app_page">
+                            <Sidebar />
+                            <RecommendedVideos />
+                        </div>
                     </Route>
                 </Switch>
             </Router>
 
 
-            {/*<Header />*/}
-            {/*<div className = "app_page">*/}
-            {/*    <Sidebar />*/}
-            {/*    <RecommendedVideos />*/}
-            {/*</div>*/}
+
         </div>
     );
 }

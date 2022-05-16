@@ -6,11 +6,11 @@ import VideoCallSharpIcon from '@mui/icons-material/VideoCallSharp';
 import AppsSharpIcon from '@mui/icons-material/AppsSharp';
 import CircleNotificationsSharpIcon from '@mui/icons-material/CircleNotificationsSharp';
 import {Avatar} from "@mui/material";
-// import {NotificationAdd} from "@mui/icons-material";
+import {Link} from "react-router-dom";
 
 
 function Header() {
-    const [inputSearch, setInputSearch] = useState('');
+    const [inputSearch, setInputSearch] = useState("");
 
     return (
         <div className = "header">
@@ -25,8 +25,12 @@ function Header() {
             </div>
 
             <div className="header_input">
-                <input placeholder = "Search" type = "text"/>
-                <SearchSharpIcon className = "header_inputButton"/>
+                <input onChange = {e => setInputSearch(e.target.value)}
+                       value = {inputSearch}
+                       placeholder = "Search" type = "text"/>
+                <Link to = {`/search/${inputSearch}`}>
+                    <SearchSharpIcon className = "header_inputButton"/>
+                </Link>
             </div>
 
             <div className="header_icons">
