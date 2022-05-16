@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import './Header.css';
 import MenuSharpIcon from '@mui/icons-material/MenuSharp';
 import SearchSharpIcon from '@mui/icons-material/SearchSharp';
@@ -10,6 +10,8 @@ import {Avatar} from "@mui/material";
 
 
 function Header() {
+    const [inputSearch, setInputSearch] = useState('');
+
     return (
         <div className = "header">
             <div className="header_left">

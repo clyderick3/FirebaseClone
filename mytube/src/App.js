@@ -8,11 +8,24 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
     return (
         <div className="App">
-            <Header />
-            <div className = "app_page">
-                <Sidebar />
-                <RecommendedVideos />
-            </div>
+            <Router>
+                <Header />
+                <Switch>
+                    <Route path = "/search/:searchTerm">
+                        <h1>Search page</h1>
+                    </Route>
+                    <Route path = "/">
+                        <h1>Home page</h1>
+                    </Route>
+                </Switch>
+            </Router>
+
+
+            {/*<Header />*/}
+            {/*<div className = "app_page">*/}
+            {/*    <Sidebar />*/}
+            {/*    <RecommendedVideos />*/}
+            {/*</div>*/}
         </div>
     );
 }
