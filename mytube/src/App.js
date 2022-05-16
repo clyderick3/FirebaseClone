@@ -3,7 +3,6 @@ import React from "react";
 import Header from "./Header";
 import Sidebar from "./Sidebar";
 import RecommendedVideos from "./RecommendedVideos";
-//Try and implement Switch independently. Check Project Structure.
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
