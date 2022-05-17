@@ -22,7 +22,7 @@
 }
 
 .sidebarRow:hover > .sidebarRow_icon { /*When you hover go to icon*/
-    color: lawngreen;
+    color: limegreen;
 }
 
 .sidebarRow:hover > .sidebarRow_title {
