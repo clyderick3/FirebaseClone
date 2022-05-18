@@ -99,7 +99,7 @@ function RecommendedVideos() {
 
                 <VideoCard
                     title = "Delaware State University Opens Optics Building"
-                    views = "3.1K views"
+                    views = "3.2K views"
                     timestamp = "8 months ago"
                     channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
                     channel = "Broderick Business"
