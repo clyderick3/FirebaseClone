@@ -2,6 +2,7 @@ import './App.css';
 import React from "react";
 import Header from "./Header";
 import Sidebar from "./Sidebar";
+import SearchPage from "./SearchPage";
 import RecommendedVideos from "./RecommendedVideos";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
