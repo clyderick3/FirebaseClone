@@ -20,7 +20,7 @@ function App() {
                         <h1>Search page</h1> //can delete soon.
                     </Route>
                     <Route path = "/">
-                        {/*<h1>Home page</h1>*/}
+                        {/*<h1>Home Page baby</h1>*/}
                         {/*<Header />*/}
                         <div className = "app_page">
                             <Sidebar />
