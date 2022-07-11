@@ -9,7 +9,7 @@ function RecommendedVideos() {
             <div className="recommendedVideos_videos">
                 <VideoCard
                 title = "I Love Learning!"
-                views = "3.2M views"
+                views = "3.02M views"
                 timestamp = "1 day ago"
                 channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
                 channel = "Broderick Business"
