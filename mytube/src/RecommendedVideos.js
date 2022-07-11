@@ -8,7 +8,7 @@ function RecommendedVideos() {
             <h2>Recommended</h2>
             <div className="recommendedVideos_videos">
                 <VideoCard
-                title = "Love Learning!"
+                title = "I Love Learning!"
                 views = "3.1M views"
                 timestamp = "1 day ago"
                 channelImage = "https://t3.ftcdn.net/jpg/03/55/77/92/360_F_355779218_kDL5VxGSiKwb63EHzAECtjrQbEKXt8CT.jpg"
